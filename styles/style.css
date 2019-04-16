@@ -15,7 +15,3 @@ h6::before {
 .gitbook-link {
     display: none !important;
 }
-
-.summary:first-child {
-    margin-top: 7px !important;
-}
