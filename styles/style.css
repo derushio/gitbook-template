@@ -17,5 +17,9 @@ h6::before {
 }
 
 .book-body {
+    padding-bottom: 0;
+}
+
+.body-inner {
     padding-bottom: 5rem;
 }
