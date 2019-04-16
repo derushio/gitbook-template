@@ -1,0 +1,41 @@
+.page-toc {
+    float: none;
+}
+
+button {
+    padding: 0 3rem; line-height: 2.25em;
+    background-color: white;
+    border: 1px solid #E7E7E7; border-radius: 0.75rem;
+    letter-spacing: 0.1em;
+}
+
+h5::before {
+    content: '>';
+    margin-right: 0.5em;
+}
+
+h6::before {
+    content: '>>';
+    margin-right: 0.5em;
+}
+
+.page-inner {
+    max-width: 1100px;
+}
+
+.bg-gray {
+    padding: 1rem 2rem;
+    border: 1px solid #E7E7E7; border-radius: 0.5rem;
+}
+
+.nl {
+    margin-bottom: 1rem;
+}
+
+.buttons {
+    display: flex;
+}
+
+.buttons button:not(:first-child) {
+    margin-left: 1rem;
+}

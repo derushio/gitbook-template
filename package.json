@@ -1,0 +1,22 @@
+{
+  "name": "gitbook-template",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "scripts": {
+    "serve": "gitbook serve",
+    "build": "gitbook build"
+  },
+  "dependencies": {
+    "collapsible-menu": "^1.0.10",
+    "gitbook-cli": "^2.3.2",
+    "gitbook-plugin-ace": "^0.3.2",
+    "gitbook-plugin-expandable-chapters": "^0.2.0",
+    "gitbook-plugin-graph": "^0.1.0",
+    "gitbook-plugin-include-codeblock": "^3.2.2",
+    "gitbook-plugin-include-csv": "^0.3.0",
+    "gitbook-plugin-page-toc-af": "^1.1.0",
+    "gitbook-plugin-theme-api": "^1.1.2",
+    "gitbook-plugin-uml": "^1.0.1"
+  }
+}
