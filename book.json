@@ -1,7 +1,7 @@
 
 {
     "plugins": [
-        "-search", "-lunr",
+        "-search", "-lunr", "-sharing",
         "theme-api", "expandable-chapters", "page-toc-af",
         "include-codeblock", "include-csv", "ace",
         "uml", "graph"
