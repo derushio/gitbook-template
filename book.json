@@ -18,6 +18,6 @@
         }
     },
     "styles": {
-        "website": "styles/style.css"
+        "website": "assets/styles/style.css"
     }
 }
