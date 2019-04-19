@@ -20,6 +20,25 @@ h6 {
     float: none;
 }
 
+@media screen and (min-width: 600px) {
+    .page-toc {
+        position: fixed;
+
+        width: 400px; height: calc(100% - 50px - 4rem);
+        overflow-y: auto;
+
+        top: calc(50px + 2rem); left: calc(100% - 2rem);
+        transition: 0.25s ease;
+        transform: translate(-30%, 0);
+        opacity: 0.3;
+    }
+
+    .page-toc:hover {
+        transform: translate(-100%, 0);
+        opacity: 1;
+    }
+}
+
 .gitbook-link {
     display: none !important;
 }
