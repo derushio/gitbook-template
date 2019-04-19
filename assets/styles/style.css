@@ -29,7 +29,7 @@ h6 {
 
         top: calc(50px + 2rem); left: calc(100% - 2rem);
         transition: 0.25s ease;
-        transform: translate(-30%, 0);
+        transform: translate(-10%, 0);
         opacity: 0.3;
     }
 
