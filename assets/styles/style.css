@@ -12,6 +12,10 @@ h6::before {
     margin-right: 0.5em;
 }
 
+h6 {
+    color: black;
+}
+
 .page-toc {
     float: none;
 }
