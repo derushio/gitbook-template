@@ -18,5 +18,8 @@
     "gitbook-plugin-page-toc-af": "^1.1.0",
     "gitbook-plugin-theme-api": "^1.1.2",
     "gitbook-plugin-uml": "^1.0.3"
+  },
+  "resolutions": {
+    "acorn": "5.7.4"
   }
 }
