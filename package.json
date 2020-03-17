@@ -20,6 +20,11 @@
     "gitbook-plugin-uml": "^1.0.3"
   },
   "resolutions": {
-    "acorn": "5.7.4"
+    "acorn": "^5.7.4",
+    "minimist": "^1.2.5",
+    "csv-parse": "^4.4.6",
+    "tunnel-agent": "^0.6.0",
+    "cryptiles": "^4.1.2",
+    "hoek": "^4.2.1"
   }
 }
